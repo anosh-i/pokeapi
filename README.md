@@ -5,7 +5,7 @@ This project is to collect pokemon information for a list of pokemon from the [P
 ## Installation and setup
 
 1. Install git -  [GitHub installation guide](https://github.com/git-guides/install-git) 
-2. ⁠Clone the repository - git clone ____ 
+2. ⁠Clone the repository - `git clone https://github.com/anosh-i/pokeapi.git`
 3. ⁠Create a virtual environment to install dependencies - `python -m venv myenv` 
 4. ⁠Activate the virtual environment - `source myenv/bin/activate` 
 5. ⁠Install dependencies - `pip install -r requirements.txt` 
